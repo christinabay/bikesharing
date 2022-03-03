@@ -4,7 +4,8 @@
 The purpose of this analysis was to take a look at the Citibike user data in New York City to determine if the program is worth investing in at another location. 
 
 ## Results
-See Tableau story. 
+See Tableau story below.
+https://public.tableau.com/views/NYC-test/NYCCitiBikeStory?:language=en-US&:display_count=n&:origin=viz_share_link 
 
 ## Summary
 The results of this analysis show that trips are taken majority by male subscribers, during commute hours, for short rides under 30 minutes. Two additional visualizations I included were total rides and the top starting location. 
